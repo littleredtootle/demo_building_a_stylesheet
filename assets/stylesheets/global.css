@@ -9,7 +9,7 @@ body {
 
 .clearfix::before,
 .clearfix::after {
-  display: table-cell;
+  display: table;
   content: " ";
 }
 .clearfix::after {
@@ -32,6 +32,12 @@ body {
 
 .text-center {
   text-align: center;
+}
+.text-right {
+  text-align: right;
+}
+.text-left {
+  text-align: left;
 }
 
 

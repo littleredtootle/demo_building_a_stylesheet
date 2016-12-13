@@ -2,12 +2,20 @@
  * Colors
  * ----------------------------------- */
 
-// #FF9A95
-// #d16d6a
-// #864544
-
-// #8ab6c1
-// #8ab6c1
-// #264e5b
+.yellow {
+  background: yellow;
+}
+.blue {
+  background: blue;
+}
+.green {
+  background: green;
+}
+.red {
+  background: red;
+}
+.orange {
+  background: orange;
+}
 
 

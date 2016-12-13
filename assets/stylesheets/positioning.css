@@ -1,0 +1,31 @@
+/* ----------------------------------- *
+ * Positioning
+ * ----------------------------------- */
+
+
+
+.left {
+  float: left;
+}
+
+#main-header {
+  height: 128px;
+}
+#main-content-container {
+  height: 384px;
+}
+#main-content {
+  width: 67%;
+}
+#sidebar {
+  width: 33%;
+}
+#main-footer {
+  height: 96px;
+}
+#main-content,
+#sidebar {
+  height: 100%;
+}
+
+
