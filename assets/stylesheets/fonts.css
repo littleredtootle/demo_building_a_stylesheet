@@ -19,7 +19,7 @@ html {
   font-weight: 700;
 }
 .monospaced {
-  font-family: Courier, sans-serif;
+  font-family: "Courier New", monospaced;
 }
 .cursive {
   font-family: cursive;
